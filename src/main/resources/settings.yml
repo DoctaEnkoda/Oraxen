@@ -223,3 +223,15 @@ Misc:
     - LOOM
     - STONECUTTER
     - BELL
+    
+# Better customization gui /o inv. Items Oraxen WORK ! Material default Paper 
+gui_inventory:
+  armors: emerald_helmet
+  blocks: DIRT
+  guis: CHEST
+  hats: DIAMOND_HELMET
+  items: STICK
+  mobs: ZOMBIE_HEAD
+  mystical: REDSTONE_TORCH
+  tools: DIAMOND_PICKAXE
+  weapons: DIRT
